@@ -1,4 +1,4 @@
-# --- Python Logo Source Code ---
+
 
 
 import turtle
